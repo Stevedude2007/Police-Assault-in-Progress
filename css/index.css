@@ -114,13 +114,13 @@ body {
 
 @keyframes background-color-change {
   0% {
-    background-color: rgba(155, 227, 63, 0.3);
+    background-color: rgba(0, 93, 255, 0.3);
   }
   50% {
     background-color: rgba(0, 0, 0, 0);
   }
   100% {
-    background-color: rgba(155, 227, 63, 0.3);
+    background-color: rgba(0, 93, 255, 0.3);
   }
 }
 
